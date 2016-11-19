@@ -1,0 +1,9 @@
+C:\projetos\net\utilitarios\utilitario_sqlserver\utilitario_sqlserver\bin\Debug\utilitario_sqlserver.exe.config
+C:\projetos\net\utilitarios\utilitario_sqlserver\utilitario_sqlserver\obj\Debug\utilitario_sqlserver.csprojResolveAssemblyReference.cache
+C:\projetos\net\utilitarios\utilitario_sqlserver\utilitario_sqlserver\obj\Debug\utilitario_sqlserver.FrmPrincipal.resources
+C:\projetos\net\utilitarios\utilitario_sqlserver\utilitario_sqlserver\obj\Debug\utilitario_sqlserver.Properties.Resources.resources
+C:\projetos\net\utilitarios\utilitario_sqlserver\utilitario_sqlserver\obj\Debug\utilitario_sqlserver.csproj.GenerateResource.Cache
+C:\projetos\net\utilitarios\utilitario_sqlserver\utilitario_sqlserver\bin\Debug\utilitario_sqlserver.exe
+C:\projetos\net\utilitarios\utilitario_sqlserver\utilitario_sqlserver\bin\Debug\utilitario_sqlserver.pdb
+C:\projetos\net\utilitarios\utilitario_sqlserver\utilitario_sqlserver\obj\Debug\utilitario_sqlserver.exe
+C:\projetos\net\utilitarios\utilitario_sqlserver\utilitario_sqlserver\obj\Debug\utilitario_sqlserver.pdb
